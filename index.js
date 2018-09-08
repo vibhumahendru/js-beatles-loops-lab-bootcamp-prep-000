@@ -5,5 +5,5 @@ function theBeatlesPlay (musicians, inst) {
     var x = `${musicians[i]} plays ${inst[i]}`
     array.push(x)
   }
-  return x
+  return array
 }

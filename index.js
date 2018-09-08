@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles (num){
   var number = []
   var pass = 0
-  do {
+  do { number.push()
     
   }
   while{pass < num

@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles (num){
   var number = []
   var pass = 0
-  do { number.push("I love the Beatles!)
+  do { number.push("I love the Beatles!")
     pass++
   }
   while(pass < num)

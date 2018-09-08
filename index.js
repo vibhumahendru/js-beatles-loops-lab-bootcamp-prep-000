@@ -8,5 +8,8 @@ function theBeatlesPlay (musicians, inst) {
 }
 
 function johnLennonFacts(facts){
-  
+ var factArray = []
+  while (facts){
+    
+  }
 }
